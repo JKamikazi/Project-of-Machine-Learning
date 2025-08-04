@@ -1,9 +1,6 @@
 # real_estate_price_predictor
 This app is built using Streamlit and deployed via Streamlit Community Cloud.
 
-[Visit the app here](https://real-estate-s.streamlit.app/)
-
-password - streamlit
 
 This application predicts the price of a house based on key property features using a machine learning model trained on a historical real estate dataset.
 
