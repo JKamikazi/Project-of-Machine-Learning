@@ -1,9 +1,7 @@
 # credit_eligibility_application
 This app has been built using Streamlit and deployed with Streamlit community cloud
 
-[Visit the app here](https://credit-loan.streamlit.app/)
 
-password - streamlit
 
 This application predicts whether someone is eligible for a loan based on inputs derived from the German Credit Risk dataset. The model aims to help users assess loan eligibility by leveraging machine learning predictions.
 
