@@ -2,10 +2,6 @@
 
 This app is built using Streamlit and deployed on Streamlit Community Cloud.
 
-[Visit the app here](https://admission-a.streamlit.app/)
-
-**password**: `streamlit`
-
 This application predicts a student's chance of admission to a university based on their academic profile using a trained MLP (Neural Network) model.
 
 ## Features
